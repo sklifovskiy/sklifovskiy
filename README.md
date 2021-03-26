@@ -11,12 +11,19 @@
 #### 🌱 I’m currently learning
 
 - https://rs.school/js/ 
-- - 🟨 JS
-- - 📙 HTML
-- - 📘 CSS
-- - 🔸 GIT
-- - 🟢 Node.js
-- - 🅰️ Angular
+
+22% 🟨 JS
+
+60% 📙 HTML
+
+60% 📘 CSS
+
+50% 🔸 GIT
+
+5% 🟢 Node.js
+
+0% 🅰️ Angular
+
 
 <!--
 **unsky559/unsky559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
