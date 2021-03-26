@@ -12,17 +12,17 @@
 
 - https://rs.school/js/ 
 
-22% 🟨 JS
+🟨 JS - 22%
 
-60% 📙 HTML
+📙 HTML - 60% 
 
-60% 📘 CSS
+📘 CSS - 60% 
 
-50% 🔸 GIT
+🔸 GIT - 50% 
 
-5% 🟢 Node.js
+🟢 Node.js - 5% 
 
-0% 🅰️ Angular
+🅰️ Angular - 0% 
 
 
 <!--
