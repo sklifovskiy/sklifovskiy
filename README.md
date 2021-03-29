@@ -2,17 +2,28 @@
 
 #### 🔭 I’m currently working on
 
-- https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
-- https://github.com/unsky559/MathBattle
+<details><summary>Projects</summary>
+
 - https://github.com/unsky559/code-timer
 - https://github.com/unsky559/portfolio
+- https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
+- https://github.com/unsky559/MathBattle
 
+</details>
 
-#### 🌱 I’m currently learning
+#### ❤️ In love with
 
-- https://rs.school/js/ 
+🟨 JS 📙 HTML 📘 CSS 🔸 GIT 🟢 Node.js 🅰️ Angular *🐈 Kitties*
 
-🟨 JS 📙 HTML 📘 CSS 🔸 GIT 🟢 Node.js 🅰️ Angular 
+#### 💎 Certification
+
+<details><summary>Cources</summary>
+
+- Rolling Scopes School https://rs.school/js/ - in progress
+- SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
+
+</details>
+
 
 
 <!--
