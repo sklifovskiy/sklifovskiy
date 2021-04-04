@@ -1,24 +1,28 @@
 ### Hi there 👋
 
+#### 📫 How to reach me: 
+
+[Telegram](https://t.me/sklifovskiy) [Instagram](https://instagram.com/sklifovskiy) unsky559@gmail.com
+
 #### 🔭 I’m currently working on
 
 - https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
 - https://github.com/unsky559/MathBattle
 
 <details><summary>Closed repo 🤫</summary>
-
+  
 - https://github.com/unsky559/code-timer
 - https://github.com/unsky559/portfolio
 
 </details>
 
 #### ❤️ In love with
+
 🟨 JS 📙 HTML 📘 CSS 🔸 GIT *🐈 Kitties*
 ##### New in
 🟢 Node.js ⚛️ React
-#### 💎 Certification
 
-##### Cources
+#### 💎 Certification
 
 - Rolling Scopes School https://rs.school/js/ - in progress
 - SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
