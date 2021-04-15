@@ -11,7 +11,7 @@
 
 <details><summary>Sectret repos 🤫</summary>
   
-- https://github.com/unsky559/code-timer
+- https://github.com/unsky559/code-timer :atom:
 - https://github.com/unsky559/portfolio
 
 </details>
