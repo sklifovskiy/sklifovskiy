@@ -20,7 +20,7 @@
 
 🟨 JS 📙 HTML 📘 CSS 🔸 GIT *🐈 Kitties*
 ##### New in
-🟢 Node.js ⚛️ React
+🟢 Node.js ⚛️ React 🎲 WebPack 🐶 Pug
 
 #### 💎 Certification
 
