@@ -9,7 +9,7 @@
 - https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
 - https://github.com/unsky559/MathBattle
 
-<details><summary>Sectret repos 🤫</summary>
+<details><summary>Sectret repos :shipit:</summary>
   
 - https://github.com/unsky559/code-timer :atom:
 - https://github.com/unsky559/portfolio
