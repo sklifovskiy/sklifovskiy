@@ -25,6 +25,7 @@
 #### 💎 Certification
 
 - Rolling Scopes School https://rs.school/js/ - in progress
+- SoloLearn [JavaScript course](https://www.sololearn.com/certificates/course/en/6895628/1024/landscape/png/) - 2021
 - SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
 
 
