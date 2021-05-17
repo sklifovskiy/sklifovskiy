@@ -18,9 +18,12 @@
 
 #### ❤️ In love with
 
-🟨 JS 📙 HTML 📘 CSS 🔸 GIT *🐈 Kitties*
+🟨 JS 📙 HTML 📘 CSS 🔸 GIT
+
+🐶 Pug
+
 ##### New in
-🟢 Node.js ⚛️ React 🎲 WebPack 🐶 Pug
+🟢 Node.js ⚛️ React 🎲 WebPack 
 
 #### 💎 Certification
 
