@@ -7,12 +7,12 @@
 #### 🔭 I’m currently working on
 
 - https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
-- https://github.com/sklifovskiy/MathBattle
+- https://github.com/unsky559/MathBattle
 
 <details><summary>Sectret repos :shipit:</summary>
   
-- https://github.com/sklifovskiy/code-timer :atom:
-- https://github.com/sklifovskiy/roe
+- https://github.com/unsky559/code-timer :atom:
+- https://github.com/unsky559/roe
 
 </details>
 
