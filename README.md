@@ -18,12 +18,17 @@
 
 #### ❤️ In love with
 
-🟨 JS 📙 HTML 📘 CSS 🔸 GIT
-
+🟨 JS 
+📙 HTML 
+📘 CSS 
+🔸 GIT
 🐶 Pug
 
 ##### New in
-🟢 Node.js ⚛️ React 🎲 WebPack 
+🟢 Node.js 
+🎲 WebPack 
+🟦 TypeScript
+⚛️ React 
 
 #### 💎 Certification
 
