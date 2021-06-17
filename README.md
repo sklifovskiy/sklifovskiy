@@ -31,6 +31,9 @@
 ⚛️ React 
 🐳 Docker
 ᛒ▹ Three.js
+🥫 SQL
+🍃 MongoDB
+
 
 
 #### 💎 Certification
