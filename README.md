@@ -11,7 +11,6 @@
 
 <details><summary>Sectret repos :shipit:</summary>
   
-- https://github.com/unsky559/code-timer :atom:
 - https://github.com/unsky559/roe
 
 </details>
@@ -21,18 +20,22 @@
 🟨 JS 
 📙 HTML 
 📘 CSS 
-🔸 GIT
+🟦 TypeScript
 🐶 Pug
+♌️ Sass
+🔸 GIT
+🎲 WebPack 
 
 ##### New in
 🟢 Node.js 
-🎲 WebPack 
-🟦 TypeScript
 ⚛️ React 
+🐳 Docker
+ᛒ▹ Three.js
+
 
 #### 💎 Certification
 
-- Rolling Scopes School https://rs.school/js/ - in progress
+- Rolling Scopes School [Front-end 2021Q1](https://rs.school/js/) - in progress - stage #2
 - SoloLearn [JavaScript course](https://www.sololearn.com/certificates/course/en/6895628/1024/landscape/png/) - 2021
 - SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
 
