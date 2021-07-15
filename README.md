@@ -28,6 +28,7 @@
 
 ##### New in
 🟢 Node.js 
+📊 Chart.js
 ⚛️ React 
 🐳 Docker
 ᛒ▹ Three.js
