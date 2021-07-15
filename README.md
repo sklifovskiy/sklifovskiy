@@ -45,9 +45,6 @@
 - SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
 
 
-
-
-
 <!--
 **unsky559/unsky559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
