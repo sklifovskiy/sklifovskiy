@@ -2,7 +2,7 @@
 
 #### 📫 How to reach me: 
 
-[Telegram](https://t.me/sklifovskiy) [Instagram](https://instagram.com/sklifovskiy) [LinkedIn](https://www.linkedin.com/in/unsky559) [Work.ua](https://www.work.ua/ru/resumes/6858932/) unsky559@gmail.com
+[Telegram](https://t.me/sklifovskiy) [LinkedIn](https://www.linkedin.com/in/unsky559) [Work.ua](https://www.work.ua/ru/resumes/6858932/) unsky559@gmail.com
 
 #### 🔭 I’m currently working on
 
