@@ -1,4 +1,4 @@
-### Trainee / Junior React front-end developer 👋
+### Trainee / Junior front-end developer 👋
 > Open for hiring 👀
 
 I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development. I have no commercial development experience. 
