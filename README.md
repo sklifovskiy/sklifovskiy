@@ -29,14 +29,14 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 
 #### Stack
 
-- JavaScript ES6, TypeScript, jQuery; 
+- JavaScript ES6, TypeScript; 
+- jQuery; 
 - HTML, pug; 
 - CSS, SCSS, bootstrap; 
 - npm, Webpack; 
 - GIT; 
 - SQL, JSON; 
 - REST, HTTP, socket.io, ajax.
-
-Adobe Photoshop, Figma, Adobe Xd.
+- Adobe Photoshop, Figma, Adobe Xd.
 
 
