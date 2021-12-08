@@ -36,7 +36,7 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 - npm, Webpack; 
 - GIT; 
 - SQL, JSON; 
-- REST API, HTTP, socket.io, ajax.
+- REST API, HTTP, socket.io, ajax;
 - Adobe Photoshop, Figma, Adobe Xd.
 
 
