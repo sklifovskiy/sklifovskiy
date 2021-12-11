@@ -1,13 +1,13 @@
-### Front-end developer 👋
+## Front-end developer 👋
 > Open for hiring 👀
 
 I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development. I have no commercial development experience. 
 
-#### 📫 How to reach me: 
+### 📫 How to reach me: 
 
 [Telegram](https://t.me/unsky559) [Skype](https://join.skype.com/invite/JbXgTdwUHn7n) [LinkedIn](https://www.linkedin.com/in/unsky559) [Work.ua](https://www.work.ua/ru/resumes/6858932/) 6kostya@gmail.com
 
-#### 💎 Certification
+#### Certification
 
 - Rolling Scopes School [Front-end 2021Q1](https://rs.school/js/) - 2021
 - SoloLearn [JavaScript course](https://www.sololearn.com/certificates/course/en/6895628/1024/landscape/png/) - 2021
@@ -27,7 +27,7 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 
 - https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
 
-#### Stack
+### Stack
 
 - JavaScript ES6, TypeScript; 
 - jQuery; 
