@@ -1,7 +1,7 @@
-## Front-end developer 👋
+## Front-end web developer 👋
 > Open for hiring 👀
 
-I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development. I have no commercial development experience. 
+I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development.
 
 ### 📫 How to reach me: 
 
@@ -20,12 +20,12 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 ### Projects
 #### I’m currently working on
 
-- https://github.com/unsky559/MathBattle
 - https://github.com/unsky559/roe
 
 #### Completed
 
-- https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/tree/v1.0.2) released!
+- https://github.com/unsky559/MathBattle - 🥳 [v1.0.0](https://github.com/unsky559/mathBattle/releases/tag/v1.0.0) released!
+- https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/releases/tag/v1.0.2) released!
 
 ### Stack
 
