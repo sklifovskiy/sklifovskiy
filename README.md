@@ -1,5 +1,7 @@
-## Front-end web developer 👋
-> Open for hiring 👀
+## React Front-end web developer 👋
+```javascript
+let me = ["work", "first"].join(" ");
+```
 
 I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development.
 
@@ -29,6 +31,22 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 
 ### Stack
 
+
+```javascript
+export const stack = {
+ languages: ["JavaScript ES6", "TypeScript"],
+ libraries: ["React", "jQuery"],
+ templating: ["HTML", "pug", "jsx"],
+ styles: ["CSS", "SCSS", "Bootstrap", "Materialize"],
+ tools: ["npm", "webpack"],
+ vcs: [["git", "GitHub"]],
+ database: ["SQL", "MongoDB", "LocalStorage", "IndexedDB", "JSON"],
+ web: ["REST API", "HTTP", "websockets", "ajax"],
+ additional: ["Adobe Photoshop", "Figma", "Adobe XD"],
+}
+```
+
+<!--- 
 - JavaScript ES6, TypeScript; 
 - jQuery; 
 - HTML, pug; 
@@ -38,5 +56,4 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 - SQL, JSON; 
 - REST API, HTTP, socket.io, ajax;
 - Adobe Photoshop, Figma, Adobe Xd.
-
-
+--->
