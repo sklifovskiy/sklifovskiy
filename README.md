@@ -27,7 +27,7 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 #### Completed
 
 - https://github.com/unsky559/MathBattle - 🥳 [v1.0.0](https://github.com/unsky559/mathBattle/releases/tag/v1.0.0) released!
-- https://github.com/IamBogdan/2048web - 🥳 [v1.0.2](https://github.com/IamBogdan/2048web/releases/tag/v1.0.2) released!
+- https://github.com/IamBogdan/2048web - 🥳 [v1.0.3](https://github.com/IamBogdan/2048web/releases/tag/v1.0.3) released!
 
 ### Stack
 
