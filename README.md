@@ -7,10 +7,11 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 
 ### 📫 How to reach me: 
 
-[Telegram](https://t.me/unsky559) [Skype](https://join.skype.com/invite/JbXgTdwUHn7n) [LinkedIn](https://www.linkedin.com/in/unsky559) [Work.ua](https://www.work.ua/ru/resumes/6858932/) 6kostya@gmail.com
+[GitLab](https://gitlab.com/6kostya) [Telegram](https://t.me/unsky559) [Skype](https://join.skype.com/invite/JbXgTdwUHn7n) [LinkedIn](https://www.linkedin.com/in/unsky559) [Work.ua](https://www.work.ua/ru/resumes/6858932/) 6kostya@gmail.com
 
 ### Certification
 
+- EPAM [Front-End Online Program](https://training.epam.ua/#!/Training/3214?lang=ua) - 2022
 - Rolling Scopes School [Front-end 2021Q1](https://rs.school/js/) - 2021
 - SoloLearn [JavaScript course](https://www.sololearn.com/certificates/course/en/6895628/1024/landscape/png/) - 2021
 - SoloLearn [PHP course](https://www.sololearn.com/Certificate/1059-6895628/jpg/) - 2018
