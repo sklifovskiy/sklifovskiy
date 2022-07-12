@@ -32,7 +32,7 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 
 ### Stack
 
-
+<!---
 ```javascript
 export const stack = {
  languages: ["JavaScript ES6", "TypeScript"],
@@ -46,8 +46,8 @@ export const stack = {
  additional: ["Adobe Photoshop", "Figma", "Adobe XD"],
 }
 ```
+--->
 
-<!--- 
 - JavaScript ES6, TypeScript; 
 - jQuery; 
 - HTML, pug; 
@@ -57,4 +57,4 @@ export const stack = {
 - SQL, JSON; 
 - REST API, HTTP, socket.io, ajax;
 - Adobe Photoshop, Figma, Adobe Xd.
---->
+
