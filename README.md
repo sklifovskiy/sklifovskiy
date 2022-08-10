@@ -3,7 +3,9 @@
 let me = ["work", "first"].join(" ");
 ```
 
-I’m a Front-end developer seeking an entry-level position to start IT career and delve deeper into web development.
+I'm a frontend React developer specializing in developing single-page applications with a usage of TypeScript, Scss and Webpack as a main bundler. I have experience with building cross-browser and responsive layout using Flexbox and Grid. I have also used Bootstrap, Firebase, Material.io components for my projects. As for version control, I prefer to use GitHub, where you can find some of my pet projects. While working on small projects, I prefer to use Trello for individual work or Jira for teamwork collaboration.
+
+Seeking a junior developer position. Consider options for working remotely full-time as well as office work in Kyiv. Open for internships.
 
 ### 📫 How to reach me: 
 
@@ -24,10 +26,10 @@ I’m a Front-end developer seeking an entry-level position to start IT career a
 #### I’m currently working on
 
 - https://github.com/unsky559/roe
+- https://github.com/unsky559/MathBattle - 🥳 [v1.0.0](https://github.com/unsky559/mathBattle/releases/tag/v1.0.0) released!
 
 #### Completed
 
-- https://github.com/unsky559/MathBattle - 🥳 [v1.0.0](https://github.com/unsky559/mathBattle/releases/tag/v1.0.0) released!
 - https://github.com/IamBogdan/2048web - 🥳 [v1.0.3](https://github.com/IamBogdan/2048web/releases/tag/v1.0.3) released!
 
 ### Stack
