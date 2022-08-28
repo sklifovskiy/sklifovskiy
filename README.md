@@ -50,13 +50,18 @@ export const stack = {
 ```
 --->
 
-- JavaScript ES6, TypeScript; 
-- jQuery; 
-- HTML, pug; 
-- CSS, SCSS, bootstrap; 
-- npm, Webpack; 
-- GIT; 
-- SQL, JSON; 
-- REST API, HTTP, socket.io, ajax;
-- Adobe Photoshop, Figma, Adobe Xd.
-
+- React
+- vue.js
+- JavaScript ES22
+- TypeScript
+- HTML5, CSS / SCSS,
+- styled components
+- pug
+- GIT / GitHub / GitLab
+- Webpack
+- AJAX
+- Bootstrap, Materialize
+- Jira, Slack, Trello
+- Figma, Adobe XD, Photoshop
+- Socket.IO
+- REST
