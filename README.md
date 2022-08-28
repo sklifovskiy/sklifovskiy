@@ -3,9 +3,9 @@
 let me = ["work", "first"].join(" ");
 ```
 
-I'm a frontend React developer specializing in developing single-page applications with a usage of TypeScript, Scss and Webpack as a main bundler. I have experience with building cross-browser and responsive layout using Flexbox and Grid. I have also used Bootstrap, Firebase, Material.io components for my projects. As for version control, I prefer to use GitHub, where you can find some of my pet projects. While working on small projects, I prefer to use Trello for individual work or Jira for teamwork collaboration.
+I'm a frontend developer specializing in developing single-page applications with a usage of React + TypeScript, Scss and Webpack as a main bundler. I have experience with building cross-browser and responsive layouts. You can find some of my pet projects on GitHub.
 
-Seeking a junior developer position. Consider options for working remotely full-time as well as office work in Kyiv. Open for internships.
+Seeking a front-end developer position. Consider options for working remotely full-time as well asoffice work in Kyiv.
 
 ### 📫 How to reach me: 
 
