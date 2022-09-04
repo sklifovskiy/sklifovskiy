@@ -1,4 +1,4 @@
-## React Front-end web developer 👋
+## Front-end developer 👋
 ```javascript
 let me = ["work", "first"].join(" ");
 ```
