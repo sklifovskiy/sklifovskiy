@@ -13,6 +13,7 @@ Seeking a front-end developer position. Consider options for working remotely fu
 
 ### Certification
 
+- Rolling Scopes School [React 2022Q3](https://rs.school/react/) - 2022
 - EPAM [Front-End Online Program](https://training.epam.ua/#!/Training/3214?lang=ua) - 2022
 - Rolling Scopes School [Front-end 2021Q1](https://rs.school/js/) - 2021
 - SoloLearn [JavaScript course](https://www.sololearn.com/certificates/course/en/6895628/1024/landscape/png/) - 2021
